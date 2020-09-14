@@ -32,7 +32,7 @@ namespace ECommerceWebAPI.Models.Entity
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server = localhost\\SQLEXPRESS07; Database = ECommerceDB; Trusted_Connection = True;");
+                optionsBuilder.UseSqlServer("Server = localhost\\SQLEXPRESS; Database = ECommerceDB; Trusted_Connection = True;");
             }
 
         }

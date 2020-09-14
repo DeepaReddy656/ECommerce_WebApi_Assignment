@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\E-Commerce_dotnetCore\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI.csproj": {}
+    "C:\\Users\\deepa reddy\\Downloads\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI.csproj": {}
   },
   "projects": {
-    "E:\\E-Commerce_dotnetCore\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI.csproj": {
+    "C:\\Users\\deepa reddy\\Downloads\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\E-Commerce_dotnetCore\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\deepa reddy\\Downloads\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI.csproj",
         "projectName": "ECommerceWebAPI",
-        "projectPath": "E:\\E-Commerce_dotnetCore\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI.csproj",
-        "packagesPath": "C:\\Users\\Raghuvaran\\.nuget\\packages\\",
-        "outputPath": "E:\\E-Commerce_dotnetCore\\ECommerceWebAPI\\ECommerceWebAPI\\obj\\",
+        "projectPath": "C:\\Users\\deepa reddy\\Downloads\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI.csproj",
+        "packagesPath": "C:\\Users\\deepa reddy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\deepa reddy\\Downloads\\ECommerceWebAPI\\ECommerceWebAPI\\ECommerceWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Raghuvaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\deepa reddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
